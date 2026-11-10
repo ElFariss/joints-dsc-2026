@@ -1,0 +1,14 @@
+# Locally supplied competition data and model artifacts
+datasets/*
+!datasets/.gitkeep
+datajointsxinspire.zip
+Tembok Ratapan Solo.npz
+cinepoint_pre_cutoff.csv
+kalender_libur_pre_cutoff.csv
+
+# Generated notebook outputs
+joints_submission_output/
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+.DS_Store
